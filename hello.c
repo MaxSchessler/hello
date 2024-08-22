@@ -1,5 +1,7 @@
 /**
- * 
+ * Created by Max Schessler
+ * mschessl2@huskers.unl.edu
+ * on 8/22/2024
 */
 
 int main(int argc, char **argv) {
