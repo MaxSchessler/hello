@@ -3,5 +3,8 @@
 */
 
 int main(int argc, char **argv) {
-    p
+    printf("Hello, I'm Max Schessler\n");
+    printf("Major is Computer Engineering\n");
+
+    return 0;
 }
